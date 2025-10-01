@@ -3,3 +3,5 @@
 *.csv
 *.DS_Store
 .DS_Store
+.Rhistory
+.Rhistory
